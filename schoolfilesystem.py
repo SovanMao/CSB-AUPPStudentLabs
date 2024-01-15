@@ -34,7 +34,6 @@ class SchoolAssessmentSystem:
         try:
             with open(new_file_path, 'a') as file:
                 file.write(self.process_file(old_file_path))
-                print(new_file_path)
         except UnicodeDecodeError:
             print("Error: Could not read file")
 
