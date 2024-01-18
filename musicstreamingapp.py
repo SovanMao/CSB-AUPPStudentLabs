@@ -151,3 +151,43 @@ for song in get_songs_by_genre:
 print("---------------------------")
 
 
+# Output: 
+
+# Playlist: My Playlist 1
+# ---------------------------
+# Title | Artist
+# 1. Moonlight Dance - Harmony Haven
+# 2. Serenade - Fools Garden
+# 3. Lullaby - Harmony Haven
+
+
+# ---------------------------
+# Songs by artist 'Rhythmic Rapture': 
+# ---------------------------
+# Title | Album
+# Cascade - Euphonic Echoes
+# Reverie - Dreamy Delights
+# Cosmic - Dreamy Delights
+# Journey - Dreamy Delights
+# ---------------------------
+
+
+# ---------------------------
+# Songs by album 'Starry Nights':
+# ---------------------------
+# Title | Artist
+# Moonlight Dance - Harmony Haven
+# Aurora - Celestial Sounds
+# Lullaby - Harmony Haven
+# Resonance - Celestial Sounds
+# ---------------------------
+
+
+# ---------------------------
+# Songs by genre 'Chillout':
+# ---------------------------
+# Title | Album
+# Reflections - Euphonic Echoes
+# Daydream - Euphonic Echoes
+# Tranquility - Euphonic Echoes
+# ---------------------------
